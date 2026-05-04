@@ -1,0 +1,14 @@
+# Node.js and Vite .gitignore
+
+# Node modules
+node_modules/
+
+# Build outputs
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
